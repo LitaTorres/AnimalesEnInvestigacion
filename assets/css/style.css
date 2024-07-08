@@ -1,0 +1,17 @@
+
+body {
+    background-image: url("../imgs/fondo.jpg");
+}
+
+#Animales {
+    min-height: 495px;
+    height: auto;
+}
+
+#preview {
+    height: 200px;
+    background-image: url(../imgs/lion.svg);
+    background-position: top;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
